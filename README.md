@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CLARA 
 - 👀 I’m curious about the world of data 
 - 🌱 I’m currently learning R, SQL & whatever-data-related subjects 
-- 💞️ I’m looking to collaborate on projects for beginers
 - 📫 How to reach me claratran2015@gmail.com 
 
 <!---
